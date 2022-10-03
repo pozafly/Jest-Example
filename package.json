@@ -16,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/pozafly/Jest-Example/issues"
   },
-  "homepage": "https://github.com/pozafly/Jest-Example#readme"
+  "homepage": "https://github.com/pozafly/Jest-Example#readme",
+  "devDependencies": {
+    "jest": "^29.1.2"
+  },
+  "dependencies": {
+    "@types/jest": "^29.1.1"
+  }
 }
