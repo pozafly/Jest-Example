@@ -20,7 +20,7 @@ class Calculator {
   }
 
   multiply(num) {
-    this.value = this.value + num;
+    this.value = this.value * num;
   }
 
   divide(num) {
